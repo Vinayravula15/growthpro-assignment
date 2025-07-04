@@ -34,6 +34,27 @@ This is a full-stack SEO Headline Generator app built as part of the GrowthPro a
 
 | Part       | Platform       | Link (optional)                     |
 |------------|----------------|-------------------------------------|
-| Frontend   | Netlify | (https://your-frontend-link.vercel.app) |
+| Frontend   | Netlify |(https://spectacular-puffpuff-7c244f.netlify.app/)) |
 
+## 🛠️ Local Setup Instructions
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Vinayravula15/growthpro-assignment.git
+cd growthpro-assignment
+
+2. Install and run the backend
+bash
+cd backend
+npm install
+node index.js
+Server runs on http://localhost:3001
+
+3. Install and run the frontend
+bash
+cd frontend
+npm install
+npm run dev
+App runs on http://localhost:5173
 
